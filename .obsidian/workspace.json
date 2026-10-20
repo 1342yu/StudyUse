@@ -1,0 +1,291 @@
+{
+  "main": {
+    "id": "39b0ee1b60996c55",
+    "type": "split",
+    "children": [
+      {
+        "id": "92928296ab31037e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a8dd4ed475957f64",
+            "type": "leaf",
+            "state": {
+              "type": "apex-dashboard-view",
+              "state": {},
+              "icon": "home",
+              "title": "工作台"
+            }
+          },
+          {
+            "id": "ce79282d46a6cbee",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "欢迎.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "欢迎"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "fa8d9c8304fa3734",
+    "type": "split",
+    "children": [
+      {
+        "id": "5d20d9602c97c3d5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "063c3ce6b4be351e",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
+          },
+          {
+            "id": "52aa4680b0ba0788",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
+            }
+          },
+          {
+            "id": "c3338a86015b9834",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-bookmark",
+              "title": "书签"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 245.5
+  },
+  "right": {
+    "id": "b29ae12e7918bd9f",
+    "type": "split",
+    "children": [
+      {
+        "id": "b0a2f4456faac634",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7e4c7e69c42999b5",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "反向链接"
+            }
+          },
+          {
+            "id": "e4d60d101472569e",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "出链"
+            }
+          },
+          {
+            "id": "9774903f50a715f4",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
+            }
+          },
+          {
+            "id": "f3f960a44e02def7",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "添加笔记属性"
+            }
+          },
+          {
+            "id": "33f62568cc7699f1",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "欢迎.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "大纲"
+            }
+          },
+          {
+            "id": "850562c18e1a69c1",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "lucide-ghost",
+              "title": "calendar"
+            }
+          },
+          {
+            "id": "3439fe98489ce169",
+            "type": "leaf",
+            "state": {
+              "type": "claudian-view",
+              "state": {
+                "tabWorkspace": {
+                  "version": 1,
+                  "openTabs": [
+                    {
+                      "tabId": "tab-1792504292177-71w6s84",
+                      "conversationId": null,
+                      "draftModel": "opus"
+                    }
+                  ],
+                  "activeTabId": "tab-1792504292177-71w6s84"
+                }
+              },
+              "icon": "bot",
+              "title": "Claudian"
+            }
+          }
+        ],
+        "currentTab": 6
+      }
+    ],
+    "direction": "horizontal",
+    "width": 420.83331298828125
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "obsidian-textgenerator-plugin:Generate Text!": false,
+      "obsidian-textgenerator-plugin:Text Generator: Templates Packages Manager": false,
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "bases:新建数据库": false,
+      "obsidian-excalidraw-plugin:新建绘图文件": false,
+      "omnisearch:Omnisearch": false,
+      "templater-obsidian:Templater": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "realclaudian:Open Claudian": false,
+      "apex-dashboard:打开工作台": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "ce79282d46a6cbee",
+  "lastOpenFiles": [
+    "dashboard.md",
+    "小说/历史架空小说/04-正文/第一卷-抵港/第001章-锚地/第001章-场景03-接收大员.md",
+    "小说/历史架空小说/06-创作模板/文本生成模板/03-去AI味审校.md.tmp.2116.394389a6493f",
+    "tmp-prompt-02.txt",
+    "小说/历史架空小说/04-正文/第一卷-抵港/第001章-锚地/第001章-场景02-引水员的条件.md",
+    "小说/历史架空小说/07-创作日志/设定变更记录.md.tmp.2116.5dfc60110eb3",
+    "小说/历史架空小说/00-故事圣经/连续性/连续性台账.md.tmp.2116.d71e177ebc9d",
+    "小说/历史架空小说/04-正文/第一卷-抵港/第001章-锚地/第001章-场景02-引水员的条件.md.tmp.2116.3b50b378798b",
+    "tmp-prompt-06.txt",
+    "小说/历史架空小说/04-正文/第一卷-抵港/第001章-锚地/第001章-场景01-雾中三张纸.md",
+    "tmp-prompt-03.txt",
+    "小说/历史架空小说/06-创作模板/文风素材-烽火1937.md",
+    "小说/历史架空小说/07-创作日志/设定变更记录.md.tmp.2116.b8a9e89dc8ca",
+    "小说/历史架空小说/06-创作模板/文本生成模板/01-历史细节提取.md",
+    "小说/历史架空小说/06-创作模板/文本生成模板/06-历史与剧情连续性审查.md.tmp.2116.dec691a73b4f",
+    "小说/历史架空小说/06-创作模板/文本生成模板/05-人物档案与一致性.md.tmp.2116.3ba47b32d7fc",
+    "小说/历史架空小说/06-创作模板/文本生成模板/02-冷镜头执笔.md",
+    "小说/历史架空小说/06-创作模板/文本生成模板/05-人物档案与一致性.md",
+    "小说/历史架空小说/06-创作模板/文本生成模板/06-历史与剧情连续性审查.md",
+    "小说/资料/香港史/images/ffdb13b36be95d021df2c8fb252cff89a888f05182365162da6a5e5614b61a48.jpg",
+    "小说/资料/香港史/images/ffc43da96dbdd28fb8fa7daea4b432146298ec50cbaf888acd59593fc33f089f.jpg",
+    "小说/资料/香港史/images/ffbb98a55863ffcf9948cff66cd4bd5f3a9504bbb657f89f246aa6761ebd553a.jpg",
+    "小说/资料/香港史/images/fde4f9f9b6b02ee0855788e2160306af3ec0519b03522dc8c5a6d4c3640d56e0.jpg",
+    "小说/资料/香港史/images/fc75cf542ee939a268e69b13903b3754ffee0080581f45c564ed4e5896602d26.jpg",
+    "小说/资料/香港史/images/fd3eedb1894f07f186dc7f4653d4c410be799e349c30966e5016d58c1d34780c.jpg",
+    "小说/资料/香港史/images/fc24d31f6a057dbed1e12ddd79786be887a702da116ae9b9b9718951dc20b299.jpg",
+    "小说/资料/香港史/images/fb816292fe3a81333291dd5ebd3fb408dbaed2149c72252b5c9dfd0464f53974.jpg",
+    "小说/资料/香港史/images/fb3fa1c73ab28a18e0970ae87cdf3fa397673126f9ff20613ebd596c0f1d6fa3.jpg",
+    "小说/资料/香港史/images/fb1471e5112c3dd9181bdf1355fe37af088a0fd2e4dcd1592d0b52d9d535d5ad.jpg",
+    "小说/资料/香港史/香港史.md",
+    "小说/历史架空小说/06-创作模板/文风素材-资料库.md",
+    "小说/历史架空小说/06-创作模板/文风样本.md",
+    "小说/资料/缅北之战/缅北之战.md",
+    "小说/资料/倾城之恋.md",
+    "小说/历史架空小说/06-创作模板/资料库-索引与考据.md",
+    "小说/资料/香港三部曲_Markdown/香港三部曲.md",
+    "小说/历史架空小说/01-人物档案/人物/许文澜.md",
+    "小说/资料/陈克文日记/陈克文日记（1937—1952）（上册）/陈克文日记（1937—1952）（上册）.md",
+    "小说/资料/陈克文日记/陈克文日记（1937—1952）（上册）/陈克文先生年表.md",
+    "小说/资料/陈克文日记/陈克文日记（1937—1952）（上册）/编者序.md",
+    "小说/资料/陈克文日记/陈克文日记（1937—1952）（上册）/编辑与校订说明.md",
+    "小说/资料/陈克文日记/陈克文日记（1937—1952）（上册）/简体字版弁言.md",
+    "小说/资料/陈克文日记/陈克文日记（1937—1952）（上册）/第二辑 颠沛流离1938—1939.md",
+    "小说/资料/陈克文日记/陈克文日记（1937—1952）（上册）/第三辑 火浴山城1939—1940.md",
+    "小说/资料/陈克文日记/陈克文日记（1937—1952）（上册）/第一辑 狂风骤雨1937.md",
+    "小说/资料/陈克文日记/陈克文日记（1937—1952）（上册）/目录.md",
+    "未命名.canvas"
+  ]
+}
